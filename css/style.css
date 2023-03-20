@@ -25,4 +25,57 @@
     padding-left:40px;
 }
 
-    
+.editorial-row{
+    height:300px;
+    border:2px;
+    border-radius:20px;
+    padding:5px;
+    color: white;
+    background-color: #14AAF5;
+}
+
+.goals-row{
+    height:300px;
+    border:2px;
+    border-radius:20px;
+    padding:5px;
+    color: white;
+    background-color:#AB5DE6;
+}  
+
+.recruting-row{
+    height:300px;
+    border:2px;
+    border-radius:20px;
+    padding:5px;
+    background-color:#2CC6AB;
+    color:white
+}
+
+.mobile-row{
+    height:300px;
+    border:2px;
+    border-radius:20px;
+    padding:5px;
+    background-color:#ff9b00;
+    color:white
+}
+
+
+.website-row{
+    height:300px;
+    border:2px;
+    border-radius:20px;
+    padding:5px;
+    background-color:#ec4a9d;;
+    color:white
+}
+
+.sales-row{
+    height:300px;
+    border:2px;
+    border-radius:20px;
+    padding:5px;
+    background-color: #a3d116;
+    color:white
+}
