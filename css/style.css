@@ -1,5 +1,5 @@
 .logo-space{
-        margin-bottom: 50px;
+        margin-bottom: 30px;
 }
 
 .row-task{
@@ -101,3 +101,11 @@
     border-radius: 50%;
     text-align: center;
 }
+
+.font{ 
+	font-family: Arial,Helvetica Neue,Helvetica,sans-serif; 
+}
+
+.page{
+    padding: 25px 100px;
+ }
