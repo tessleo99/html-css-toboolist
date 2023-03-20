@@ -79,3 +79,25 @@
     background-color: #a3d116;
     color:white
 }
+
+.checkmark{
+    width: 10px;
+    height: 10px;
+    border-style: solid;
+    border-width: 2px;
+    border-color:#2CC6AB;
+    color: #2CC6AB;
+    border-radius: 50%;
+    text-align: center;
+}
+
+.xmark{
+    width: 10px;
+    height: 10px;
+    border-style: solid;
+    border-width: 2px;
+    border-color:red;
+    color: red;
+    border-radius: 50%;
+    text-align: center;
+}
